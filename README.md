@@ -7,3 +7,6 @@ in 2020.
 
 It uses the NDI library, allowing for auto-discovery of streams on the local
 network.
+
+# Requirements
+sudo apt install libconfig++-dev
